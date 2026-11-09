@@ -1,0 +1,6 @@
+
+msgid "C.F."
+msgstr "F.C."
+
+msgid "Codice Fiscale"
+msgstr "Fiscal Code"

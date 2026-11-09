@@ -1,0 +1,180 @@
+#woocommerce-order-data.postbox {
+
+}
+#gyb_popupOverlay {
+	content:"";
+	z-index: 3;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	opacity: 0.2;
+}
+#woocommerce-order-data.postbox.openp .inside {
+	z-index: 2;
+}
+
+#gyb_popup { display:none; position:absolute;top:0px; left:0px;  width:100%; height:100%; z-index:10; }
+#gyb_popupContent {
+	position: relative;
+	text-align: center;
+	width: 250px;
+	margin: 0 auto;
+		margin-top: 0px;
+	height: auto;
+	background: white;
+	margin-top: 200px;
+	border: 1px solid;
+	z-index: 12;
+	padding: 20px;
+	padding-bottom: 50px;
+}
+#gyb_popupContent #getyourbill_autocomlete_cerca{
+
+}
+#gyb_popupContent .getyourbill_autocomlete_close{
+
+}
+#gyb_popupContent .power_by{
+	position: absolute;
+	right: 7px;
+	bottom: 7px;
+}
+
+
+
+.gyb_completed{
+	background: #4dbd74 !important;
+	color: #fff !important;
+}
+
+.gyb_failed{
+	background: #f86c6b !important;
+	color: #fff !important;
+}
+
+.gyb_pending{
+	background: #3085d6 !important;
+	color: #fff !important;
+}
+
+.gyb_processing{
+	background: #3085d6 !important;
+	color: #fff !important;
+}
+
+.gyb_hold{
+
+}
+
+.gyb_info{
+	max-width: 850px;
+    padding: 30px 50px;
+    background-color: #fff;
+	margin-top: 10px;
+}
+
+.gyb_info img{
+	max-width: 100%;
+}
+
+.gyb_info ul {
+    padding-left: 30px;
+}
+
+.gyb_info ul li {
+    list-style: disc;
+}
+
+.gyb_info h1{
+	color: #e6007e;
+	margin-top: 30px;
+}
+
+.gyb_info h2{
+	color: #0073aa;
+	margin-top: 30px;
+}
+
+.gyb_info h3{
+	margin-top: 30px;
+}
+
+.gyb_info span {
+    font-size: 14px;
+	line-height: 1.75em;
+}
+.gyb_info p {
+    font-size: 14px;
+	line-height: 1.75em;
+}
+.gyb_info ul li {
+    font-size: 14px;
+	line-height: 1.75em;
+}
+.gyb_completed_color{
+	color: #4dbd74 !important;
+	font-weight: bold;
+}
+.gyb_failed_color{
+	color: #f86c6b !important;
+	font-weight: bold;
+}
+.gyb_pending_color{
+	color: #3085d6 !important;
+	font-weight: bold;
+}
+.gyb_processing_color{
+	color: #3085d6 !important;
+	font-weight: bold;
+}
+
+
+.gyb-form-table tr .editmod_tax,
+.gyb-form-table tr .editmod_gyb_tax,
+.gyb-form-table tr .gyb_action,
+.gyb-form-table tr .gyb_annula
+{
+	display: none;
+}
+.gyb-form-table tr.editmod .editmod_tax,
+.gyb-form-table tr.editmod .editmod_gyb_tax,
+.gyb-form-table tr.editmod .gyb_action,
+.gyb-form-table tr.editmod .gyb_annula
+{
+	display: block;
+}
+.gyb-form-table tr.editmod .gyb-method-title,
+.gyb-form-table tr.editmod .gyb_edit
+{
+	display: none;
+}
+.gyb-form-table tr.editmod.newel .gyb_annula,
+.gyb-form-table tr.editmod.newel .gyb_delete
+{
+	display: none;
+}
+.gyb-table{
+
+}
+.gyb-table tr{
+	position: relative;
+}
+.gyb-table tr td{
+	padding: 5px 10px;
+    border-bottom: 1px solid #ccd0d4;
+		position: relative;
+		z-index: 1;
+}
+.gyb-table tr:last-child td{
+    border-bottom: 1px solid #fff;
+}
+
+.gyb-table tr.gyb_new_iterm.load{
+	opacity: .3;
+}
+
+#wp-admin-bar-getyourbillconfig a{
+	background-color: #e6007e !important;
+  color: #fff !important;
+}

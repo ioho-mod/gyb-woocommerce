@@ -1,0 +1,169 @@
+#billing_user_type_field .woocommerce-input-wrapper, .billing_user_type_field_class{
+    display: flex;
+    flex-direction: column;
+}
+#billing_user_type_field .woocommerce-input-wrapper, .billing_user_type_field_class .woocommerce-input-wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+.gyb_hidden{
+    display: none;
+}
+
+.getyourbill_autocomlete_content[mods="psoleproprietor"] .gyb_hidden[mod="psoleproprietor"]{
+    display: block;
+}
+.getyourbill_autocomlete_content[mods="pcompany"] .gyb_hidden[mod="pcompany"]{
+    display: block;
+}
+.getyourbill_autocomlete_content[mods="pperson"] .gyb_hidden[mod="pcompany"]{
+    display: block;
+}
+.getyourbill_autocomlete_content[mods="pa"] .gyb_hidden[mod="pa"]{
+    display: block;
+}
+
+.gyb_icon #billing_getyourbillid, input[type="text"].getyourbillid_icon, #getyourbill_popup_event.getyourbillid_icon{
+    background-image: url(../icons/gyb.png);
+    background-position: 98% center;
+    background-size: 35px 35px;
+    background-repeat: no-repeat;
+    padding-right: 60px;
+}
+
+
+/* getyourbill_autocomlete_close */
+
+#getyourbill_autocomlete{
+    width: 100%;
+    position: fixed;
+    z-index: 999999;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    display: none;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+#getyourbill_autocomlete .getyourbill_overlay{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    background-color: #111;
+    opacity: 0.4;
+    /* cursor: pointer; */
+}
+#getyourbill_autocomlete .getyourbill_autocomlete_content{
+    width: 90%;
+    position: relative;
+    z-index: 2;
+    padding: 10px 30px;
+    background-color: #fff;
+}
+#getyourbill_autocomlete .getyourbill_autocomlete_content .dashicons.dashicons-dismiss {
+    position: absolute;
+    right: 7px;
+    top: 4px;
+    font-size: 24px;
+    color: #e6007e;
+    cursor: pointer;
+}
+#getyourbill_autocomlete .getyourbill_autocomlete_content_in p {
+    margin-bottom: 2px;
+}
+
+
+@media (min-width: 676px){
+    #getyourbill_autocomlete .getyourbill_autocomlete_content{
+        width: 50%;
+        max-width: 500px;
+    }
+}
+
+.getyourbill_autocomlete_close{
+    width: 100%;
+    text-align: center;
+}
+#getyourbill_autocomlete_cerca{
+    width: 100%;
+    position: relative;
+    outline: none;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 13px 40px;
+    color: #fff;
+    border-radius: 40px;
+    vertical-align: top;
+    transition: all .2s linear;
+    text-align: center;
+    background: #e6007e;
+    border: 1px solid #e6007e;
+    margin-top: 20px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.getyourbill_autocomlete_content_in{
+    position: relative;
+}
+.getyourbill_autocomlete_content_in.gload:before{
+    content:"";
+    opacity: 0.7;
+    background-color: #fff;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 9;
+    left: 0px;
+    top: 0px;
+}
+.power_by{
+    text-align: right;
+    margin-top: 15px;
+}
+.power_by a{
+    color: #225568;
+    text-decoration: unset;
+}
+.power_by a:hover{
+    color: #e6007e;
+}
+#getyourbill_autocomlete_content_response.error, #getyourbill_autocomlete_content_response_front.error{
+    color: #f86c6b;
+}
+#getyourbill_autocomlete_content_response.success, #getyourbill_autocomlete_content_response_front.success{
+    color: #4dbd74;
+}
+.ghidden{
+    display: none;
+}
+
+.getyourbill_view_autocomlete {
+    position: relative;
+    outline: none;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 13px 40px;
+    color: #fff;
+    border-radius: 40px;
+    vertical-align: top;
+    transition: all .2s linear;
+    text-align: center;
+    background: #e6007e;
+    border: 1px solid #e6007e;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.getyourbill_view_autocomlete:hover {
+    background: #d10079;
+    border: 1px solid #d10079;
+}

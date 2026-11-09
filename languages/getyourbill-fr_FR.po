@@ -1,0 +1,1039 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+msgid "Dati mancanti"
+msgstr "Données manquantes"
+
+msgid "Riprovare"
+msgstr "Réessayer"
+
+msgid "MODALITA' TEST"
+msgstr "MODALITE TEST"
+
+msgid "Descrizione prodotto Fatturazione elettronica"
+msgstr "Description produit Facturation électronique"
+
+msgid "Attenzione, è necessario settare l'aliquota %1$s Consultare la <a href='%2$s'><string>configurazione aliquote</string></a>"
+msgstr "Attention, il est nécessaire de définir le taux %1$s Veuillez consulter la <a href='%2$s'><string>configuration des taux</string></a>"
+
+msgid "Verificato con successo"
+msgstr "Vérifié et correct"
+
+msgid "missing"
+msgstr "manquant"
+
+msgid "XXXXXXX"
+msgstr "XXXXXXX"
+
+msgid "GetYourBill informazioni aggiuntive"
+msgstr "GetYourBill informations additionnelles"
+
+msgid "Recupera automaticamente i dati anagrafici, fai una ricerca:"
+msgstr "Récupération automatique des données personnelles, faites une recherche:"
+
+msgid "Attenzione lo stato ricevuto non esiste: stato"
+msgstr "Attention l'état reçu n'existe pas: état"
+
+msgid "Codice di recupero GetYourBill"
+msgstr "Code de récupération GetYourBill"
+
+msgid "Popup front end cerca anagrafica"
+msgstr "Popup front end recherche des données"
+
+msgid "Recupera automaticamente i dati anagrafici compilando <b>uno solo</b> dei campi in basso:"
+msgstr "Récupère automatiquement les données personnelles en complétant <b>un seul</b> des champs ci-dessous:"
+
+msgid "Partita Iva (Ricerca Azienda)"
+msgstr "Numéro de TVA (Recherche Société)"
+
+msgid "Partita Iva"
+msgstr "Numéro de TVA"
+
+msgid "Codice Fiscale (Ricerca Privato)"
+msgstr "Code Fiscal (Recherche Particulier)"
+
+msgid "Codice Fiscale"
+msgstr "Code Fiscal"
+
+msgid "GetYourBill ID (Ricerca Cliente GetYourBill)"
+msgstr "ID GetYourBill (Recherche Client GetYourBill)"
+
+msgid "Codice Univoco PA (Ricerca Publica Amministrazione)"
+msgstr "Code Unique AP (Rechcerche Administration Publique)"
+
+msgid "Codice ipa del cliente (anagrafica PA)"
+msgstr "Code IPA du Client (Données Administration Publique)"
+
+msgid "Codice Univoco PA"
+msgstr "Code Unique AP"
+
+msgid "Cerca anagrafica"
+msgstr "Recherche des données"
+
+msgid "Inserisci i dati manualmente"
+msgstr "Veuillez saisir les données manuellement"
+
+msgid "Order"
+msgstr "Commande"
+
+msgid "Si applica la scissione dei pagamenti"
+msgstr "La scission des paiements s'applique"
+
+msgid "Dati della fatturazione"
+msgstr "Données de la facturation"
+
+msgid "Backend admin"
+msgstr "Administration backend"
+
+msgid "Gestione delle imposte per la fatturazione elettronica"
+msgstr "Gestion des impôts pour la facturation électronique"
+
+msgid "Per inviare correttamente le fatture, ad ogni imposta creata in WooCommerce devi associare la voce corrispondente nel sistema GetYourBill."
+msgstr "Pour envoyer correctement les factures, veuillez associer le sujet correspondant dans le système GetYourBill à chaque impôt créé en WooCommerce."
+
+msgid "Seleziona una tassa"
+msgstr "Sélectionnez un impôt"
+
+msgid "Imposta"
+msgstr "Impôt"
+
+msgid "Imposta GetYourBill"
+msgstr "Impôt GetYourBill"
+
+msgid "Nessuno"
+msgstr "Aucun"
+
+msgid "Il Crontab è un sistema di schedulazione che permette l'esecuzione ricorsiva di uno script all'interno del sito, con un intervallo di tempo definito. La configurazione del Crontab non è obbligatoria, ma è indispensabile per rendere operativi gli automatismi messi a disposizione dal plug-in GetYourBill. Tutte le istruzioni per la corretta configurazione del Crontab sono contenute nella Guida al capitolo 'Configurazione del Crontab'.<br> Nel Crontab devi inserire il link dello script che verrà eseguito. Qui di seguito è riportato il link che devi inserire."
+msgstr "Le Crontab est un système d'échéancier permettant l'exécution récursive d'un script au sein du site, avec un intervalle de temps prédéfini. La configuration du Crontab n'est pas obligatoire, mais elle est indispensable afin de rendre opérationnels les automatismes mis à disposition par le plug-in GetYourBill. Toutes les instructions pour la configuration correcte du Crontab sont contenues dans le Guide au chapitre 'Configuration du Crontab'.<br> Vous devrez insérer le link du script devant être exécuté dans le Crontab. Voici le link devant être inséré."
+
+msgid "LINK"
+msgstr "LINK"
+
+msgid "Altre traduzioni"
+msgstr "Autres traductions"
+
+msgid "GetYourBill PDF template personalizzato"
+msgstr "Template personnalisé GetYourBill PDF"
+
+msgid "Nessuno (non è richiesto nessun dato in aggiunta all'email)"
+msgstr "Aucun (aucune donnée n'est demandée outre l'email)"
+
+msgid "Nome, Cognome, Ragione sociale"
+msgstr "Nom, Prénom, Raison Sociale"
+
+msgid "Dati aggiuntivi per la fatturazione"
+msgstr "Données additionnelles pour la facturation"
+
+msgid "Nome, Cognome, Ragione sociale + Dati aggiuntivi per la fatturazione"
+msgstr "Nom, Prénom, Raison Sociale + Données additionnelles pour la facturation"
+
+msgid "Completato"
+msgstr "Complété"
+
+msgid "In lavorazione"
+msgstr "En cours de traitement"
+
+msgid "Contanti"
+msgstr "Contants"
+
+msgid "Assegno"
+msgstr "Chèque"
+
+msgid "Assegno circolare"
+msgstr "Chèque circulaire"
+
+msgid "Contanti presso Tesoreria"
+msgstr "Contants auprès de la Trésorerie"
+
+msgid "Bonifico"
+msgstr "Virement"
+
+msgid "Vaglia bancario"
+msgstr "Mandat bancaire"
+
+msgid "Bollettino bancario"
+msgstr "Bulletin bancaire"
+
+msgid "Carta di pagamento"
+msgstr "Carte de paiement"
+
+msgid "RID"
+msgstr "RID"
+
+msgid "RID utenze"
+msgstr "RID pour utilitaires"
+
+msgid "RID veloce"
+msgstr "RID rapide"
+
+msgid "Riba"
+msgstr "Riba"
+
+msgid "MAV"
+msgstr "MAV"
+
+msgid "Quietanza erario stato"
+msgstr "Reçu fiscal de l'Etat"
+
+msgid "Giroconto su conti di contabilità speciale"
+msgstr "Transfert vers des comptes comptables spéciaux"
+
+msgid "Domiciliazione bancaria"
+msgstr "Domiciliation bancaire"
+
+msgid "Domiciliazione postale"
+msgstr "Domiciliation postale"
+
+msgid "Bollettino di c/c postale"
+msgstr "Bulletin de compte postal"
+
+msgid "SEPA Direct Debit"
+msgstr "SEPA Direct Debit"
+
+msgid "SEPA Direct Debit CORE"
+msgstr "SEPA Direct Debit CORE"
+
+msgid "SEPA Direct Debit B2B"
+msgstr "SEPA Direct Debit B2B"
+
+msgid "Trattenuta su somme già riscosse"
+msgstr "Retenue sur sommes déjà encaissées"
+
+msgid "L'intermediario ha rifiutato la fattura con il presente messaggio di errore"
+msgstr "L'intermédiaire a refusé la facture avec ce message d'erreur"
+
+msgid "Data ed ora in cui la fattura è stata recapitata"
+msgstr "Date et heure de la remise de la facture"
+
+msgid "Lo SDI ha rifiutato la fattura con il presente messaggio di errore"
+msgstr "Le SDI a refusé la facture avec ce message d'erreur"
+
+msgid "docSdiErrors"
+msgstr "docSdiErrors"
+
+msgid "Impossibile recapitare la fattura, data ed ora a partire dalla quale è disponibile nel cassetto fiscale"
+msgstr "Impossible de délivrer la facture, date et heure à partir de laquelle elle est disponible dans le tiroir fiscal"
+
+msgid "receiverResult"
+msgstr "receiverResult"
+
+msgid "Il motivo del rifiuto"
+msgstr "La raison du refus"
+
+msgid "Notifica di decorrenza termini, il destinatario non ha risposto entro i termini previsti"
+msgstr "Notification de fin du délai, le destinataire n'a pas répondu endéans le délai prévu"
+
+msgid "Il motivo della decorrenza termini"
+msgstr "La raison du dépassement du délai"
+
+msgid "Attestazione di avvenuta trasmissione con impossibilità di recapito, data ed ora in cui la fattura è stata ricevuta dal sdi"
+msgstr "Preuve de transmission avec impossibilité de livraison, date et heure auxquelles la facture a été reçue par la SDI"
+
+msgid "stateNotManagedByIntermediary"
+msgstr "stateNotManagedByIntermediary"
+
+msgid "Codice terminale"
+msgstr "Code de l'appareil"
+
+msgid "Codice licenza"
+msgstr "Code de la licence"
+
+msgid "ID Esercente"
+msgstr "ID commerçant"
+
+msgid "Attendere..."
+msgstr "Attendre …"
+
+msgid "Si è verificato un errore, riprovare"
+msgstr "Une erreur a eu lieu, veuillez essayer de nouveau"
+
+msgid "Si è verificato un errore, contattare l'amministratore"
+msgstr "Une erreur a eu lieu, veuillez contacter l'administrateur"
+
+msgid "Seleziona tipologia"
+msgstr "Sélectionnez une tipologie"
+
+msgid "Privato"
+msgstr "Particulier"
+
+msgid "Ditta Individuale/Libero Professionista"
+msgstr "Société Individuelle / Profession Libérale"
+
+msgid "Azienda/Società/Organizzazione no profit"
+msgstr "Entreprise / Société / Organisation non profit"
+
+msgid "Pubblica Amministrazione"
+msgstr "Administration Publique"
+
+msgid "Partita Iva, Codice fiscale e PEC sono obbligatori"
+msgstr "Le numéro de TVA, le code fiscal et l'email certifié sont obligatoires"
+
+msgid "La Partita Iva è obbligatoria e almeno uno dei due campi PEC o Codice Destinatario"
+msgstr "Le numéro de TVA est obligatoire ainsi qu'un des deux champs 'email certifié' ou 'code destinataire'"
+
+msgid "Partita Iva e Codice fiscale sono richiesti e almeno uno dei due campi PEC o Codice Destinatario"
+msgstr "Le numéro de TVA et le code fiscal sont obligatoires ainsi qu'un des deux champs 'email certifié' ou 'code destinataire'"
+
+msgid "Codice fiscale e Codice IPA sono obbligatorio Partita Iva, CIG e GUP sono opzionali"
+msgstr "Le code fiscal et le code IPA sont obligatoires; le numéro de TVA, le CIG et le CUP sont optionnels"
+
+msgid "Nessun campo obbligatorio"
+msgstr "Aucun champ n'est obligatoire"
+
+msgid "La Partita Iva è obbligatoria"
+msgstr "Le numéro de TVA est obligatoire"
+
+msgid "Il Codice fiscale è obbligatorio"
+msgstr "Le code fiscal est obligatoire"
+
+msgid "Codice Destinatario"
+msgstr "Code Destinataire"
+
+msgid "Partita Iva e Codice fiscale sono obbligatori"
+msgstr "Le numéro de TVA et le code fiscal sont obligatoires"
+
+msgid "PEC o Codice Destinatario"
+msgstr "Email certifié ou Code Destinataire"
+
+msgid "Codice fiscale o PEC o Codice Destinatario"
+msgstr "Code fiscal ou email certifié ou Code Destinataire"
+
+msgid "Codice fiscale è obbligatorio Partita Iva, CIG e GUP sono opzionali"
+msgstr "Le code fiscal est obligatoire; le numéro de TVA, le CIG et le CUP sont optionnels"
+
+msgid "Nessuna fatturazione"
+msgstr "Aucune facturation"
+
+msgid "Fattura elettronica"
+msgstr "Facture électronique"
+
+msgid "Iva 0% Extra Italia"
+msgstr "TVA 0% hors Italie"
+
+msgid "Iva 4%"
+msgstr "TVA 4%"
+
+msgid "Iva 10%"
+msgstr "TVA 10%"
+
+msgid "Iva 22%"
+msgstr "TVA 22%"
+
+msgid "Prestazione medica esente iva ex art.10 n.18 DPR 633/1972"
+msgstr "Service médical exonéré de TVA conformément à l'article 10 n.18 du décret présidentiel 633/1973"
+
+msgid "Esente iva ex art.17, comma 6 DPR 633/72"
+msgstr "Exonéré de TVA conformément à l'article 17 comma 6 du décret présidentiel 633/72"
+
+msgid "Non imponibile ex art.72, DPR 633/72"
+msgstr "Non imposable en vertu de l'article 72, décret présidentiel 633/72"
+
+msgid "Esente iva ex art.5.3.1, Privilegi degli Agenti Diplomatici e Consolari Esteri in Italia"
+msgstr "Exonération de TVA conformément à l'article 5.3.1, Privilèges des agents diplomatiques et consulaires étrangers en Italie"
+
+msgid "Non imponibile ex art.41, comma 1 DL 331/93"
+msgstr "Non imposable en vertu de l'article 41 comma 1, décret législatif 331/93"
+
+msgid "Art. 74 del DPR 633/72 - IVA assolta dall'editore"
+msgstr "Article 74 du décret présidentiel 633/72 - TVA payée par l'éditeur"
+
+msgid "Esente iva"
+msgstr "Exonéré de TVA"
+
+msgid "Escluse ex art. 15"
+msgstr "Exclus en vertu de l'art. 15"
+
+msgid "Non soggette"
+msgstr "Non assujettis"
+
+msgid "2.1 Non soggette ad IVA ai sensi degli artt. da 7 a 7-septies del DPR 633/72"
+msgstr "2.1 Non assujetti à la TVA conformément à l'art. 7 à 7-septies du décret présidentiel 633/72"
+
+msgid "2.2 Non soggette – altri casi"
+msgstr "2.2 Non assujetti - autre cas"
+
+msgid "Non imponibili"
+msgstr "Non imposables"
+
+msgid "3.1 Non Imponibili - esportazioni"
+msgstr "3.1 Non imposables - exportations"
+
+msgid "3.2 Non Imponibili - cessioni intracomunitarie"
+msgstr "3.2 Non taxables - livraisons intracommunautaires"
+
+msgid "3.3 Non Imponibili - cessioni verso San Marino"
+msgstr "3.3 Non imposable - ventes à Saint-Marin"
+
+msgid "3.4 Non Imponibili - operazioni assimilate alle cessioni all'esportazione"
+msgstr "3.4 Non imposable - transactions similaires à des ventes à l'exportation"
+
+msgid "3.5 Non Imponibili - a seguito di dichiarazioni d'intento"
+msgstr "3.5 Non imposable - suite à des déclarations d'intention"
+
+msgid "3.6 Non Imponibili - altre operazioni che non concorrono alla formazione del plafond"
+msgstr "3.6 Non imposable - autres opérations qui ne contribuent pas à la formation du plafond"
+
+msgid "Esenti"
+msgstr "Exempts"
+
+msgid "Regime del margine / IVA non esposta in fattura"
+msgstr "Régime de marge / TVA non indiquée sur la facture"
+
+msgid "Inversione contabile"
+msgstr "Inversion comptable"
+
+msgid "6.1 Inversione contabile - cessione di rottami e altri materiali di recupero"
+msgstr "6.1 Inversion comptable - vente de déchets et autres matériaux recyclés"
+
+msgid "6.2 Inversione contabile - cessione di oro e argento puro"
+msgstr "6.2 Inversion comptable - vente d'or et d'argent pur"
+
+msgid "6.3 Inversione contabile - subappalto nel settore edile"
+msgstr "6.3 Inversion comptable - sous-traitance dans le secteur de la construction"
+
+msgid "6.4 Inversione contabile - cessione di fabbricati"
+msgstr "6.4 Inversion comptable - vente d'immeubles"
+
+msgid "6.5 Inversione contabile - cessione di telefoni cellulari"
+msgstr "6.5 Inversion comptable - vente de téléphones cellulaires"
+
+msgid "6.6 Inversione contabile - cessione di prodotti elettronici"
+msgstr "6.6 Inversion comptable - vente de produits électroniques"
+
+msgid "6.7 Inversione contabile - prestazioni comparto edile e settori connessi"
+msgstr "6.7 Inversion comptable - prestations dans le secteur de la construction et des secteurs connexes"
+
+msgid "6.8 Inversione contabile - operazioni settore energetico"
+msgstr "6.8 Inversion comptable - opérations dans le secteur énergétique"
+
+msgid "6.9 Inversione contabile - altri casi"
+msgstr "6.9 Inversion comptable - autres cas"
+
+msgid "IVA assolta in altro stato UE"
+msgstr "TVA payée dans un autre pays de l'UE"
+
+msgid "N1: Escluse ex art. 15"
+msgstr "N1: Exclus en vertu de l'art. 15"
+
+msgid "N2: Non soggette"
+msgstr "N2: Non assujetti"
+
+msgid "N3: Non imponibili"
+msgstr "N3: Non imposables"
+
+msgid "N4: Esenti"
+msgstr "N4: Exempts"
+
+msgid "N5: Regime del margine / IVA non esposta in fattura"
+msgstr "N5: Régime de marge / TVA non indiquée sur la facture"
+
+msgid "N6: Inversione contabile"
+msgstr "N6: Inversion comptable"
+
+msgid "N7: IVA assolta in altro stato UE"
+msgstr "N7: TVA payée dans un autre pays de l'UE"
+
+msgid "GetYourBill_altro"
+msgstr "GetYourBill_autres"
+
+msgid "Vuoi salvare l'anagrafica nel tuo account?"
+msgstr "Désirez-vous enregistrer les données dans votre compte?"
+
+msgid "Id anagrafica"
+msgstr "Id données"
+
+msgid "Importa le aliquote in WooCommerce"
+msgstr "Importer les taux dans WooCommerce"
+
+msgid "I dati sono stati compilati con successo"
+msgstr "Les données ont été saisies correctement"
+
+msgid "L'anagrafica non è presente nei nostri archivi"
+msgstr "Les données ne sont pas présentes dans nos archives"
+
+msgid "Api key"
+msgstr "Api key"
+
+msgid "Support ID"
+msgstr "Support ID"
+
+msgid "Dettagli della licenza"
+msgstr "Détails de la licence"
+
+msgid "o"
+msgstr "ou"
+
+msgid "Connessione al servizio"
+msgstr "Connexion au service"
+
+msgid "Configurazione"
+msgstr "Configuration"
+
+msgid "Storico dei warning"
+msgstr "Historique des avertissements"
+
+msgid "Metodi di pagamento"
+msgstr "Méthodes de payment"
+
+msgid "Crontab"
+msgstr "Crontab"
+
+msgid "Guida"
+msgstr "Guide"
+
+msgid "Aliquote"
+msgstr "Taux"
+
+msgid "Codici Natura Operazione IVA"
+msgstr "Codes Nature Opération TVA"
+
+msgid "Stato della fatturazione"
+msgstr "Etat de la facturation"
+
+msgid "Rendere il campo <b>Tipologia</b> editabile"
+msgstr "Rendre le champ <b>Typologie</b> modificable"
+
+msgid "Valida l'errore"
+msgstr "Validez l'erreur"
+
+msgid "Visualizza lo stato della fattura"
+msgstr "Visualisez l'état de la facture"
+
+msgid "Annulla la fattura"
+msgstr "Annulez la facture"
+
+msgid "Prepara la fattura senza inviarla"
+msgstr "Préparez la facture sans l'envoyer"
+
+msgid "Visualizza fattura"
+msgstr "Visualisez la facture"
+
+msgid "Invia la fattura manualmente"
+msgstr "Envoyez la facture manuellement"
+
+msgid "Stampa la fattura manualmente"
+msgstr "Imprimez la facture manuellement"
+
+msgid "Invia warning"
+msgstr "Envoyez un avertissement"
+
+msgid "Dati aggiuntivi"
+msgstr "Données additionnelles"
+
+msgid "Dati della fattura"
+msgstr "Données de la facture"
+
+msgid "Gestione della fatturazione"
+msgstr "Gestion de la facturation"
+
+msgid "Fatturazione"
+msgstr "Facturation"
+
+msgid "Numero fattura"
+msgstr "Numéro de la facture"
+
+msgid "Numero univoco"
+msgstr "Numéro unique"
+
+msgid "Codice di recupero (recoverCode)"
+msgstr "Code de récupération (recoverCode)"
+
+msgid "Nome"
+msgstr "Nom"
+
+msgid "Cognome"
+msgstr "Nom de famille"
+
+msgid "Ragione Sociale"
+msgstr "Raison sociale"
+
+msgid "Tipologia"
+msgstr "Typologie"
+
+msgid "P.I."
+msgstr "TVA."
+
+msgid "C.F."
+msgstr "C.F."
+
+msgid "PEC"
+msgstr "Email certifié"
+
+msgid "GetYourBill ID"
+msgstr "GetYourBill ID"
+
+msgid "euro"
+msgstr "euro"
+
+msgid "Bollo virtuale applicato"
+msgstr "Timbre fiscal virtuel appliqué"
+
+msgid "GetYourBill è un servizio gratuito per gestire le fatture online. Registrati su www.getyourbill.com"
+msgstr "GetYourBill est un service gratuit pour la gestion des factures online. Enregistrez-vous sur www.getyourbill.com"
+
+msgid "La fattura elettronica verrà recapitata tramite Agenzia delle Entrate. In caso di mancato recapito vi preghiamo di verificare nel Vostro cassetto fiscale (portale Fatture e Corrispettivi) dell'Agenzia delle Entrate."
+msgstr "La facture électronique sera livrée via l'Autorité Fiscale. Au cas où elle ne vous parviendrait pas, veuillez vérifier votre tiroir fiscal (portail Factures et Reçus) de l'Autorité Fiscale."
+
+msgid "CIG"
+msgstr "CIG"
+
+msgid "CUP"
+msgstr "CUP"
+
+msgid "Codice IPA"
+msgstr "Code IPA"
+
+msgid "IPA"
+msgstr "IPA"
+
+msgid "Validazione manuale dell'errore '%s'"
+msgstr "Validation manuelle de l'erreur '%s'"
+
+msgid "Validazione dell'Api Key live eseguida con successo"
+msgstr "Validation de la Clé API live exécutée correctement"
+
+msgid "Validazione dell'Api Key di test eseguida con successo"
+msgstr "Validation de la Clé API de test exécutée correctement"
+
+msgid "Warning sono stati inviati con successo"
+msgstr "Les avertissements ont été envoyés correctement"
+
+msgid "Recupero numero della fattura andato a buon fine. Numero fattura: %1$s e Numero univoco: %2$s"
+msgstr "La récupération du numéro de la facture s'est déroulée correctement. Numéro facture: %1$s et Numéro unique: %2$s"
+
+msgid "Modifica del numero della fattura dal %1$s in %2$s e la generazione del nuovo codice univoco"
+msgstr "Changement du numéro de la facture du %1$s au %2$s et la génération du nouveau code unique"
+
+msgid "Accettata dallo SDI"
+msgstr "Accepté par le SDI"
+
+msgid "Inviata a GetYourBill"
+msgstr "Envoyée à GetYourBill"
+
+msgid "Invio della fattura andato a buon fine. Codice di recupero: %s"
+msgstr "Envoi correct de la facture. Code de récupération: %s"
+
+msgid "Invio andato a buon fine"
+msgstr "Envoi correct de la facture"
+
+msgid "Esito di consegna della fattura inviato dal destinatario : fattura accettata"
+msgstr "Résultat de la livraison de la facture envoyée par le destinataire : facture acceptée"
+
+msgid "La fattura %1$s è stata annullata correttamente. Numero fattura: %2$s e codice di recupero : %3$s"
+msgstr "La facture %1$s a été annulée correctement. Numéro facture: %2$s et code de récupération: %3$s"
+
+msgid "Il PDF della fattura è stato aggiornato con successo. Numero fattura: %1$s e codice di recupero : %2$s"
+msgstr "Le PDF de la facture a été remise à jour correctement. Numéro facture: %1$s et code de récupération: %2$s"
+
+msgid "GetYourBill_Messaggi_Warning"
+msgstr "GetYourBill_Messages_Avertissements"
+
+msgid "Tipo di account richiesto"
+msgstr "Type de compte demandé"
+
+msgid "Partita Iva non valida"
+msgstr "Numéro de TVA non valide"
+
+msgid "Codice Fiscale non valido"
+msgstr "Code Fiscal non valide"
+
+msgid "GetYourBill ID non valido"
+msgstr "ID GetYourBill non valide"
+
+msgid "PA non valida"
+msgstr "AP non valide"
+
+msgid "Attendere, la fattura è in creazione"
+msgstr "Veuillez patienter, nous préparons la facture"
+
+msgid "A causa di un errore è necessario riprovare l'invio della fattura"
+msgstr "Suite à une erreur, nous devons tenter un nouvel envoi de la facture"
+
+msgid "E successo un errore, riprovare l'invio della fattura"
+msgstr "Une erreur a eu lieu. Veuillez tenter un nouvel envoi de la facture"
+
+msgid "Attendere, l'invio automatico in corso"
+msgstr "Veuillez patienter, l'envoi automatique est en cours"
+
+msgid "Attenzione per il motivo di cancelazione del pagamento (order status cancelled) la fattura è stata annulata"
+msgstr "Attention, suite à l'annulation du paiement (order status cancelled) la facture a été annulée"
+
+msgid "Almeno uno dei campi deve essere compilato"
+msgstr "Au moins un des champs doit être complété"
+
+msgid "Attenzione! Api key live non valida"
+msgstr "Attention! La clé API live n'est pas valide"
+
+msgid "Attenzione! Api key test non valida"
+msgstr "Attention! La clé API test n'est pas valide"
+
+msgid "Non ci sono warning"
+msgstr "Il n'y a aucun avertissement"
+
+msgid "Attenzione, usando l'opzione <b>Campi obbligatori</b> impostata a <b>nessun campo obbligatorio</b> non potrai garantire di avere i dati necessari ad un corretto invio della fattura elettronica. Per altre info vedi la <a href='%s'><string>documentazione</string></a>"
+msgstr "Attention, en utilisant l'option <b>Champs obbligatoires</b> configurée comme <b>aucun champ obligatoire</b> vous ne pourrez pas garantir d'avoir toutes les données nécessaires pour un envoi correct de la facture électronique. Pour plus d'informations, consultez la <a href='%s'><string>documentation</string></a>"
+
+msgid "Almeno uno dei campi %s devono essere compilati"
+msgstr "Au moins un des champs %s doit être complété"
+
+msgid "<strong>%s</strong> ha un formato non valido"
+msgstr "<strong>%s</strong> a un format non valide"
+
+msgid "<strong>Attenzione: il campo %s</strong> è obbligatorio"
+msgstr "<strong>Attention: le champ %s</strong> est obligatoire"
+
+msgid "<strong>Attenzione:</strong> la fatturazione PA è disponibile solo in Italia"
+msgstr "<strong>Attention:</strong> la facturation AP n'est disponible qu'en Italie"
+
+msgid "<strong>Attenzione<strong> modificare il numero della fattura solo in caso di necessità"
+msgstr "<strong>Attention<strong> ne modifiez le numéro de la facture qu'en cas de nécessité"
+
+msgid "Al momento non ci sono dati per la fattura"
+msgstr "Il n'y a actuellement aucune donnée pour la facture"
+
+msgid "Al momento non ci sono dati di fatturazione"
+msgstr "Il n'y a actuellement aucune donnée pour la facturation"
+
+msgid "<strong>Attenzione<strong>, la modifica dei “Tipo di account” comporta l'immediato svuotamento dei campi sottostanti. Non cliccare sulla tendina se non necessario."
+msgstr "<strong>Attention<strong>, la modification du “Type de compte” implique l'annulation des champs liés. Ne pas cliquer si ce n'est pas nécessaire."
+
+msgid "Ogni modifica apportata qui ai Dati aggiuntivi non comporta la modifica degli stessi nel profilo Utente"
+msgstr "Chaque modification faite ici aux données aditionnelles n'implique pas la modification de ces données dans le profile Utilisateur"
+
+msgid "<b>Attenzione</b><br> devi selezionare un <b>Cliente</b>"
+msgstr "<b>Attention</b><br> doit sélectionner un <b>Client</b>"
+
+msgid "Esito di consegna della fattura dall'intermediario : fattura rifiutata"
+msgstr "Résultat de la livraison de la facture à l'intermédiaire : facture refusée"
+
+msgid "(almeno uno dei due campi %s deve essere compilato)"
+msgstr "(au moins un des deux champs %s doit être complété)"
+
+msgid "Non puoi anullare la fattura perche il numero della fattura non esiste"
+msgstr "Vous ne pouvez pas annuler la facture car le numéro de la facture n'existe pas"
+
+msgid "Non puoi anullare la fattura di questo ordine perchè non è l'ultima fattura emessa"
+msgstr "Vous ne pouvez pas annuler la facture de cette commande car ce n'est pas la dernière facture émise"
+
+msgid "Esito di consegna della fattura allo SDI: fattura rifiutata"
+msgstr "Résultat de la livraison de la facture au SDI : facture refusée"
+
+msgid "La fattura non puo essere eliminata perche è stata inviata allo SDI"
+msgstr "La facture ne peut pas être annulée car elle a été envoyée au SDI"
+
+msgid "In automatico"
+msgstr "Automatiquement"
+
+msgid "GetYourBill_Messaggi_Error"
+msgstr "GetYourBill_Messages_Erreur"
+
+msgid "Iva non identificata sul prodotto: %s"
+msgstr "TVA non identifiée sur le produit: %s"
+
+msgid "Iva non identificata sulla spedizione: %s"
+msgstr "TVA non identifiée sur l'envoi: %s"
+
+msgid "Iva non identificata nell'imposta: %s"
+msgstr "TVA non identifiée dans l'impôt: %s"
+
+msgid "Il totale fattura non è congruente con le righe inserite in fattura"
+msgstr "Le total de la facture ne correspond pas aux lignes insérées en facture"
+
+msgid "Manca l'invio a GetYourBill"
+msgstr "Il manque l'envoi à GetYourBill"
+
+msgid "Manca il codice di recupero"
+msgstr "Il manque le code de récupération"
+
+msgid "Attenzione l'annulamento della fattura per il motivo di cancelazione del pagamento (order status cancelled) non è andata a buon fine"
+msgstr "Attention, l'annulation de la facture suite à l'annulation du paiement (order status cancelled) a échoué"
+
+msgid "L'ordine con ID : %s non esiste"
+msgstr "La commande avec ID : %s n'existe pas"
+
+msgid "Codice di recupero del ordine : %s non esiste o è vuoto"
+msgstr "Le code de récupération de la commande : %s n'existe pas ou est vide"
+
+msgid "Errore %s"
+msgstr "Erreur %s"
+
+msgid "La verifica dell'API key non è andata a buon fine"
+msgstr "La vérification de la clé API a échoué"
+
+msgid "La verifica dell'API key di test non è andata a buon fine"
+msgstr "La vérification de la clé API de test a échoué"
+
+msgid "Si è verificato un errore, riprovare tra qualche istante"
+msgstr "Une erreur s'est produite, veuillez essayer dans quelques instants"
+
+msgid "<strong>%s</strong> è obbligatorio"
+msgstr "<strong>%s</strong> est obligatoire"
+
+msgid "Il cliente dell'ordine non esiste più"
+msgstr "Le client de la commande n'existe plus"
+
+msgid "Sono presenti degli errori"
+msgstr "Il y a des erreurs"
+
+msgid "Errore nella generazione del valore 'invoice number order ID' : %1$s e codice di recupero : %2$s"
+msgstr "Erreur lors de la génération de la valeur 'numéro facture commande ID' : %1$s et code de récupération : %2$s"
+
+msgid "Errore nella generazione del codice di recupero,  Id dell'ordine : %s"
+msgstr "Erreur lors de la génération du code de récupération,  Id de la commande : %s"
+
+msgid "Errore nell'invio della fattura a GetYourBill. Codice di recupero: %s"
+msgstr "Erreur durant l'envoi de la facture à GetYourBill. Code de récupération: %s"
+
+msgid "Errore nella generazione del PDF. Fattura nr: %1$s e codice di recupero: %2$s"
+msgstr "Erreur lors de la génération du PDF. Facture n°: %1$s et code de récupération: %2$s"
+
+msgid "Si è verificato un errore, verificare i messaggi"
+msgstr "Une erreur s'est produite, veuillez vérifier les messages"
+
+msgid "Si è verificato un errore : %s"
+msgstr "Une erreur s'est produite : %s"
+
+msgid "Si è verificato un errore nell'annulamento della fattura. Verificare i messaggi all'interno dell'ordine. Se non riesci a correggere l'errore, contattare l'assistenza. Fattura nr: %1$s e Recovery Code: %2$s"
+msgstr "Une erreur s'est produite lors de l'annulation de la facture. Veuillez vérifier les messages à l'intérieur de la commande. Si vous ne pouvez pas corriger l'erreur, veuillez contacter l'assistance. Facture n°: %1$s et Code de Récupération: %2$s"
+
+msgid "Si è verificato un errore nell'annulamento della fattura perche ci sono fatture successive. Fattura nr: %1$s e Recovery Code: %2$s"
+msgstr "Une erreur s'est produite lors de l'annulation de la facture car ils existent des factures successives. Facture n°: %1$s et Code de Récupération: %2$s"
+
+msgid "Nessuno stato presente per la fattura"
+msgstr "Aucun état présent pour la facture"
+
+msgid "Si è verificato un errore non indentificato"
+msgstr "Une erreur non identifiée s'est produite"
+
+msgid "Il servizio di GetYourBill non è configurato, <a href='%s'>configura adesso</a>"
+msgstr "Le service GetYourBill n'est pas configuré, <a href='%s'>configurez-le maintenant</a>"
+
+msgid "Attenzione, è necessario installare (o attivare se già installato) un plugin per la generazione della fattura in PDF. Consultare la <a href='%s'><string>documentazione</string></a>"
+msgstr "Attention, il est nécessaire d'installer (ou d'activer au cas où il est déjà installé) un plugin pour la génération de la facture en PDF. Veuillez consulter la <a href='%s'><string>documentation</string></a>"
+
+msgid "Attenzione il plug-in per la generazione della fattura PDF non è attivo. E' necessario configurare il plug-in desiderato <a href='%s'><string>Configura ora.</string></a>. E' stato attivato il plug-in di default."
+msgstr "Attention le plug-in pour la génération de la facture en PDF n'est pas activé. Il est nécessaire de configurer le plus-in choisi <a href='%s'><string>Configurez-le maintenant.</string></a>. Le plug-in de défaut a été activé."
+
+msgid "Authorization 404 request new acces token failed error : %s"
+msgstr "Authorization 404 request new acces token failed error : %s"
+
+msgid "fun: refresh_access_token,  Missing params response : %s"
+msgstr "fun: refresh_access_token,  Missing params response : %s"
+
+msgid "Bad Request: Errore nella richiesta %1$s response_code : %2$s"
+msgstr "Bad Request: Erreur dans la demande %1$s response_code : %2$s"
+
+msgid "CURL SEND error : %1$s url :  %2$s json :  %3$s response_code :  %4$s"
+msgstr "CURL SEND error : %1$s url :  %2$s json :  %3$s response_code :  %4$s"
+
+msgid "GetYourBill_Messaggi_Settings"
+msgstr "GetYourBill_Messages_Configuration"
+
+msgid "Configurazioni specifiche il Bollo"
+msgstr "Configurations spécifiques pour le Timbre fiscal"
+
+msgid "Attiva/Disattiva il bollo"
+msgstr "Activer/Désactiver le Timbre fiscal"
+
+msgid "Attiva/ il bollo da > di X €"
+msgstr "Activer/ le timbre fiscal pour des montants > à X €"
+
+msgid "Il bollo si attiva se è maggiore di"
+msgstr "Le timbre fiscal s'active pour des montants supérieurs à"
+
+msgid "Costo del bollo in €"
+msgstr "Cout du timbre fiscal en €"
+
+msgid "Alla fattura sara aggiunto un X euro"
+msgstr "Un montant de X euro sera ajouté à la facture"
+
+msgid "Modalità plugin"
+msgstr "Modalité plugin"
+
+msgid "ULTERIORI CONFIGURAZIONI DEI DATI RICHIESTI ALL'UTENTE"
+msgstr "CONFIGURATIONS ADDITIONELLES DES DONNEES DEMANDEES PAR L'UTILISATEUR"
+
+msgid "Telefono"
+msgstr "Téléphone"
+
+msgid "Rendi il campo telefono non obbligatorio"
+msgstr "Rendez le champ téléphone facultatif"
+
+msgid "Gestione della Natura dell'operazione iva"
+msgstr "Gestion de la Nature de l'opération TVA"
+
+msgid "Lo strumento permette di importare in WooCommerce le aliquote con il codice natura dell'operazione IVA"
+msgstr "L'instrument permet d'importer en WooCommerce les taux avec le code nature de l'opération TVA"
+
+msgid "Gestione aliquote"
+msgstr "Gestion des taux"
+
+msgid "Lo strumento permette di importare in WooCommerce le aliquote di cui hai bisogno"
+msgstr "L'instrument permet d'importer en WooCommerce les taux dont vous avez besoin"
+
+msgid "CONFIGURAZIONE DEI DATI AGGIUNTIVI PER LA FATTURAZIONE"
+msgstr "CONFIGURATION DES DONNEES ADITIONNELLES POUR LA FACTURATION"
+
+msgid "Dati aggiuntivi richiesti nella registrazione"
+msgstr "Données aditionnelles demandées lors de l'enregistrement"
+
+msgid "All'atto della registrazione, di default WooCommerce chiede solo l'indirizzo email. Questa opzione ti permette di scegliere se chiedere all'utente ulteriori dati in fase di registrazione. Per maggiori informazioni consulta la Guida."
+msgstr "Lors de l'enregistrement, par défaut WooCommerce demande seulement l'adresse email. Cette option vous permet de choisir d'autres données à demander à l'utilisateur au moment de l'enregistrement. Pour plus d'informations, veuillez consulter le Guide."
+
+msgid "API LIVE"
+msgstr "API LIVE"
+
+msgid "API TEST"
+msgstr "API TEST"
+
+msgid "Versione del plugin"
+msgstr "Version du plugin"
+
+msgid "vs: "
+msgstr "vs: "
+
+msgid "Invio automatico dei warning"
+msgstr "Envoi automatique des avertissements"
+
+msgid "Attiva/Disattiva l'invio automatico dei warning"
+msgstr "Activer/Désactiver l'envoi automatique des avertissements"
+
+msgid "Lista dei warning"
+msgstr "Liste des avertissements"
+
+msgid "Visualizza il campo per l'inserimento dell'ID GetYourBill"
+msgstr "Visualisez le champ pour l'insertion de l'ID GetYourBill"
+
+msgid "Rendere il campo obbligatorio?"
+msgstr "Rendre le champ obligatoire?"
+
+msgid "Campi obbligatori"
+msgstr "Champs obligatoires"
+
+msgid "Permette di scegliere se rendere o meno obbligatorio l'inserimento del codice fiscale quando la tipologia di utente è %s"
+msgstr "Permet de choisir si rendre obligatoire ou non l'insertion du code fiscal pour la typologie d'utilisateur %s"
+
+msgid "Permette di scegliere la combinazione dei campi obbligatori per la tipologia di utente %s"
+msgstr "Permet de choisir la combinaison des champs obligatoires pour la typologie d'utilisateur %s"
+
+msgid "Permette di scegliere se generare la fattura elettronica anche per gli utenti privati, o se gestire in altro modo (manualmente) il documento da consegnare. Per maggiori informazioni consulta la Guida."
+msgstr "Permet de choisir si générer une facture électronique également pour les particuliers ou si gérer d'une autre façon (manuellement) le document à remettre. Pour plus d'information, veuillez consulter le Guide."
+
+msgid "Il tipo di documento che si intende generare"
+msgstr "Le type de document que vous désirez générer"
+
+msgid "Permette di scegliere se attivare la fatturazione PA"
+msgstr "Permet de choisir si activer la facturation AP"
+
+msgid "Attiva PA"
+msgstr "Activer AP"
+
+msgid "Configurazioni specifiche in caso di utente “%s”"
+msgstr "Configurations spécifiques pour utilisateurs “%s”"
+
+msgid "Pulsanti di opzione"
+msgstr "Boutons"
+
+msgid "Tendina"
+msgstr "Menu déroulant"
+
+msgid "Stile del selettore per il tipo di utente"
+msgstr "Style du sélecteur pour le type d'utilisateur"
+
+msgid "Il plugin GetYourBill permette di configurare la richiesta dei “dati aggiuntivi per la fatturazione”, ossia quei dati non previsti da Woocommerce, ma necessari alla corretta redazione delle fatture. I dati necessari alla fatturazione dipendono dalla tipologia di utente. Quindi, all'inizio del modulo di inserimento dei dati di fatturazione, all'utente sarà richiesto di specificare la tipologia a cui appartiene (Privato, Ditta Individuale/Libero Professionista o Azienda/Società). La presente opzione permette semplicemente di indicare il tipo di selettore che sarà presentato all'utente per permettergli di selezionare la tipologia a cui appartiene. Per maggiori informazioni consulta la Guida."
+msgstr "Le plugin GetYourBill permet de configurer la demande de 'données de facturation additionnelles', c'est-à-dire ces données non fournies par Woocommerce, mais nécessaires à la bonne rédaction des factures. Les données nécessaires à la facturation dépendent du type d'utilisateur. Ainsi, au début du formulaire de saisie des données de facturation, il sera demandé à l'utilisateur de préciser le type auquel il appartient (Particulier, Indépendant ou Société). Cette option permet simplement d'indiquer le type de sélecteur qui sera présenté à l'utilisateur pour lui permettre de sélectionner le type auquel il appartient. Pour plus d'informations, consultez le Guide."
+
+msgid "Campi aggiuntivi"
+msgstr "Champs additionnels"
+
+msgid "Campi extra"
+msgstr "Champs extra"
+
+msgid "Attiva Nome, Cognome e Ragione Sociale nella registrazione"
+msgstr "Activer Nom, Nom de Famille et Raison Sociale lors de l'enregistrement"
+
+msgid "Seleziona il tipo di utente di default"
+msgstr "Sélectionner le type d'utilisateur défaut"
+
+msgid "Permette di scegliere quale tipologia di utente viene preimpostata (Nessuno, Privato, Libero Professionista/Ditta Individuale o Azienda/Società). Se lasci “Nessuno” rendi obbligatoria la scelta da parte dell'utente."
+msgstr "Permet de choisir la typologie d'utilisateur proposée (Aucun, Particulier, Indépendant, Société). En choisissant 'Aucun', le choix de la part de l'utilisateur devient obligatoire."
+
+msgid "Visualizzare i campi nella registrazione"
+msgstr "Visualiser les champs de l'enregistrement"
+
+msgid "Visualizzare i campi per la fatturazione nella registrazione al sito"
+msgstr "Visualiser les champs pour la facturation lors de l'enregistrement au site"
+
+msgid "Plug-in per la generazione delle fatture in PDF"
+msgstr "Plugin pour la génération des factures en PDF"
+
+msgid "Il plug-in GetYourBill è in grado di lavorare insieme ai più diffusi plug-in per la generazione della fattura in formato PDF. Scegli in questa tendina il plug-in che intendi usare."
+msgstr "Le plugin GetYourBill fonctionne avec les plugin plus utilisés pour la génération des factures en format PDF. Veuillez choisir dans ce menu le plugin que vous désirez utiliser."
+
+msgid "Stato della fattura"
+msgstr "Etat de la facture"
+
+msgid "Attiva/Disattiva la colonna “stato della fattura” nella lista degli ordini"
+msgstr "Activer/Désactiver la colonne 'état de la facture' dans la liste des commandes"
+
+msgid "Modalità test"
+msgstr "Modalité test"
+
+msgid "In questa modalità le fatture non saranno inviate allo SDI. Utilizzare questa modalità per effettuare i test di funzionamento."
+msgstr "En cette modalité les factures ne seront pas envoyées au SDI. Veuillez utiliser cette modalité pour effectuer des tests de bon fonctionnement."
+
+msgid "Fatture automatiche"
+msgstr "Factures automatiques"
+
+msgid "Genera e invia in automatico la fattura dopo il pagamento"
+msgstr "Génère et envoie automatiquement la facture après le paiement"
+
+msgid "Per una corretta configurazione del plug-in, si consiglia di consultare la sezione <a href='%s'><string>Guida</string></a> al capitolo “ATTIVAZIONE E CONFIGURAZIONE”"
+msgstr "Pour une configuration correcte du plug-in, veuillez consulter la section <a href='%s'><string>Guide</string></a> au chapitre “ACTIVATION ET CONFIGURATION”"
+
+msgid "Attiva/Disattiva plug-in"
+msgstr "Activer/Désactiver le plugin"
+
+msgid "Gestione CRONTAB"
+msgstr "Gestion CRONTAB"
+
+msgid "Gestione metodi di pagamento"
+msgstr "Gestion des méthodes de paiement"
+
+msgid "Associa il nome dei metodi di pagamento del tuo e-commerce con quelli di GetYourBil. Per maggiori dettagli consultare la documentazione <a href='%s'  > relativa ai metodi di pagamento</a>"
+msgstr "Associez le nom des méthodes de paiement de votre e-commerce avec ceux de GetYourBil. Pour plus d'information veuillez consulter la documentation <a href='%s'  > relative aux méthodes de paiement</a>"
+
+msgid "Stato in cui generare la fattura"
+msgstr "Etat de la génération de la facture"
+
+msgid "Il plug-in GetYourBill prevede che la generazione automatica della fattura avvenga dopo il pagamento. WooCommerce prevede due soli stati dell'ordine successivi al pagamento: “In Lavorazione” e “Completato”. La tendina permette dunque di scegliere in quale di questi due stati dell'ordine sarà generata la fattura, qualora la funzione “Fatture automatiche” sia attivata. Per maggiori informazioni consulta la Guida."
+msgstr "Le plugin GetYourBill prévoit que la génération automatique de la facture ait lieu après le paiement. WooCommerce ne fournit que deux statuts de commande après paiement : 'En cours' et 'Terminé'. Le menu déroulant permet donc de choisir dans lequel de ces deux états de commande la facture sera générée, si la fonction « Factures automatiques » est activée. Pour plus d'informations, consultez le Guide."
+
+msgid "GetYourBill_Messaggi_JS"
+msgstr "GetYourBill_Messages_JS"
+
+msgid "Gestisci"
+msgstr "Gèrez"
+
+msgid "Annulla"
+msgstr "Annulez"
+
+msgid "Salva"
+msgstr "Sauvegardez"
+
+msgid "Seleziona una tassa prima di salvare"
+msgstr "Veuillez sélectionner un impôt avant de sauvegarder"
+
+msgid "optional"
+msgstr "optionnel"

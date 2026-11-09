@@ -1,0 +1,51 @@
+*** GetYourBill Changelog ***
+
+2024-06-17 - version 1.1.15
+* Update - Documentation guide updated.
+
+2024-03-07 - version 1.1.14
+* Update - Set "Private" as the default option at checkout.
+* Update - Commented JavaScript lines in the checkout popup.
+
+2024-03-06 - version 1.1.13
+* Update - Documentation guide updated.
+
+2024-03-03 - version 1.1.12
+* Update - Documentation guide updated.
+* Fix - Fixed Public Administration issue in the checkout popup.
+* Update - Added close icon to the checkout popup.
+
+2023-09-05 - version 1.1.11
+* Fix - Fixed invoice date issue in WC_Settings_GetyourbillTabs.php.
+
+2023-01-12 - version 1.1.10
+* Update - Company name field is now visible also for private customers.
+
+2022-11-27 - version 1.1.9
+* Fix - Bug fixes.
+
+2022-11-15 - version 1.1.8
+* Update - Error message translations updated.
+
+2022-11-14 - version 1.1.7
+* Update - Added French and English translations.
+
+2022-10-26 - version 1.1.6
+* Update - Added stamp duty support.
+* Fix - Fixed multiple key issue.
+
+2022-10-07 - version 1.1.5
+* Update - Added invoice date to document number.
+
+2022-09-12 - version 1.1.4
+* Update - Invoice date management updated.
+
+2022-07-26 - version 1.1.3
+* Fix - Fixed city issue by using country when city is missing.
+
+2022-07-21 - version 1.1.2
+* Update - Updated transactionId generation function.
+* Update - Set billing city field as required.
+
+2021-08-01 - version 1.1.1
+* Update - Public Administration support.
